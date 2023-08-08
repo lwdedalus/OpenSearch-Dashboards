@@ -1,0 +1,7 @@
+{
+  "prefix": "enhPtl",
+  "paths": {
+    "enhPtl": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}
